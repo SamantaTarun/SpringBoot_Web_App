@@ -16,4 +16,9 @@ Java Assignment:
     
     
     
-    ![Screenshot at 2022-11-27 16-59-36](https://user-images.githubusercontent.com/55488549/204133031-80d60f96-e860-4c5f-b97c-5973f4433018.png)
+  
+![Screenshot at 2022-11-27 16-59-36](https://user-images.githubusercontent.com/55488549/204133521-092029fc-8dfc-4dcf-b666-c2982acd2b25.png)
+![Screenshot at 2022-11-27 17-00-22](https://user-images.githubusercontent.com/55488549/204133524-fc14c890-d548-43de-b4ae-f2e7a8ff52da.png)
+![Screenshot at 2022-11-27 17-01-15](https://user-images.githubusercontent.com/55488549/204133525-34d07fd6-b172-40cf-8da7-9c4234bad168.png)
+![Screenshot at 2022-11-27 17-01-49](https://user-images.githubusercontent.com/55488549/204133526-b5e18b8f-6504-4a1f-bddb-57360f4d45e0.png)
+![Screenshot at 2022-11-27 17-03-17](https://user-images.githubusercontent.com/55488549/204133528-5358dd51-2f23-4c4a-a524-c635d833a1dc.png)
